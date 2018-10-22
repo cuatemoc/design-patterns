@@ -13,7 +13,13 @@
         <module>solid</module>
         <module>visitor</module>
         <module>factory</module>
+        <module>prototype</module>
     </modules>
+
+    <properties>
+        <maven.compiler.source>1.9</maven.compiler.source>
+        <maven.compiler.target>1.9</maven.compiler.target>
+    </properties>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
