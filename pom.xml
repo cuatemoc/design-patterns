@@ -17,6 +17,7 @@
         <module>7.adapter</module>
         <module>8.bridge</module>
         <module>25.visitor</module>
+        <module>9.composite</module>
     </modules>
 
     <properties>
