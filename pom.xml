@@ -18,6 +18,9 @@
         <module>8.bridge</module>
         <module>25.visitor</module>
         <module>9.composite</module>
+        <module>10.decorator</module>
+        <module>11.facade</module>
+        <module>12f.lyweight</module>
     </modules>
 
     <properties>
