@@ -20,7 +20,7 @@
         <module>9.composite</module>
         <module>10.decorator</module>
         <module>11.facade</module>
-        <module>12f.lyweight</module>
+        <module>12.flyweight</module>
     </modules>
 
     <properties>
@@ -37,6 +37,22 @@
             <version>1.18.2</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.1.0</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.assertj/assertj-core -->
+        <dependency>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core</artifactId>
+            <version>3.13.2</version>
+            <scope>test</scope>
+        </dependency>
+
     </dependencies>
 
 </project>
