@@ -1,0 +1,8 @@
+Proxy is an interface for accessing a particular resource. (Same interface with a different behavior)
+The resource may be remote or difficult to construct or require logging, security check or other functionality
+
+Proxy -> identical interface, may not even work with materialized object
+Decorator -> enhanced interface, typically aggregates or have reference to what it decorates
+
+
+
