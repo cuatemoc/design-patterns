@@ -83,7 +83,6 @@ fabric.properties
 
 ### Java template
 # Compiled class file
-*.class
 
 # Log file
 *.log
@@ -95,7 +94,6 @@ fabric.properties
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -107,49 +105,18 @@ fabric.properties
 hs_err_pid*
 
 .idea/compiler.xml
-.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml
-.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml
-.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml
-.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0.xml
-.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_1.xml
-.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0.xml
-.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_1.xml
-.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml
-.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml
-.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml
 .idea/misc.xml
-.idea/modules.xml
 .idea/vcs.xml
-.idea/workspace.xml
 10.decorator/src/main/resources/
-10.decorator/target/
 11.facade/src/
 12.flyweight/src/main/resources/
-2.solid/2.solid.iml
 2.solid/src/
-2.solid/target/
-25.visitor/25.visitor.iml
 25.visitor/src/main/resources/
-25.visitor/target/
-3.builder/3.builder.iml
 3.builder/src/main/resources/
-3.builder/target/
-4.factory/4.factory.iml
 4.factory/src/main/resources/
-4.factory/target/
-5.prototype/5.prototype.iml
 5.prototype/src/main/resources/
-5.prototype/target/
-6.singleton/6.singleton.iml
 6.singleton/src/main/resources/
-6.singleton/target/
-7.adapter/7.adapter.iml
 7.adapter/src/main/resources/
-7.adapter/target/
-8.bridge/8.bridge.iml
 8.bridge/src/main/resources/
-8.bridge/target/
-9.composite/9.composite.iml
 9.composite/src/main/resources/
-9.composite/target/
-design-patterns.iml
+/.gitignore
