@@ -23,6 +23,7 @@
         <module>12.flyweight</module>
         <module>13.proxy</module>
         <module>14.chain_of_responsibility</module>
+        <module>15.command</module>
     </modules>
 
     <properties>

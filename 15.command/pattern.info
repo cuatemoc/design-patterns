@@ -1,0 +1,5 @@
+Command - an object, which represents instruction to perform particular action.
+It also contains all information, necessary for action to be taken
+
+1. Encapsulate all details of an operation in separate object
+2. Define instruction of how to apply instruction (optionally on how to undo it)
