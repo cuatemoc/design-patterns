@@ -24,6 +24,7 @@
         <module>13.proxy</module>
         <module>14.chain_of_responsibility</module>
         <module>15.command</module>
+        <module>16.interpreter</module>
     </modules>
 
     <properties>

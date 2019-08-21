@@ -1,0 +1,3 @@
+A component that processes structured text data.
+1. Turns text into separate lexical tokens (lexing)
+2. Interprets sequences of tokens (parsing)
