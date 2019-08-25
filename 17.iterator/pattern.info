@@ -1,0 +1,4 @@
+Traverses (iterates) over a data structures
+
+1. Contains reference to the current element
+2. Knows how to move to the next element
