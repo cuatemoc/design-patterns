@@ -1,0 +1,2 @@
+Mediator facilitates communication between other components
+without them being aware of each other (having direct reference or access to each other)

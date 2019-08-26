@@ -26,6 +26,8 @@
         <module>15.command</module>
         <module>16.interpreter</module>
         <module>17.iterator</module>
+        <module>18.mediator</module>
+        <module>19.memento</module>
     </modules>
 
     <properties>

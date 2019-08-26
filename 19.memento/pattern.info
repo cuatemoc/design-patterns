@@ -1,0 +1,2 @@
+A token/snapshot representing particular stat of the system
+Is used to roll back to the state, when token was generated.
