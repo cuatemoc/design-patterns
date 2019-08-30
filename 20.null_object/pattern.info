@@ -1,0 +1,1 @@
+A no-op object that conforms to the required interface (satisfying the dependency requirement of other object)

@@ -28,6 +28,7 @@
         <module>17.iterator</module>
         <module>18.mediator</module>
         <module>19.memento</module>
+        <module>20.null_object</module>
     </modules>
 
     <properties>
