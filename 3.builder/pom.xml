@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>builder</artifactId>
+    <artifactId>3.builder</artifactId>
     <build>
         <plugins>
             <plugin>
