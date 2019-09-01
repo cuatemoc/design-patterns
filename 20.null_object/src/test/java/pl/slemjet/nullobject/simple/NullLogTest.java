@@ -11,9 +11,15 @@ class NullLogTest {
         ba.withdraw(200);
 
         System.out.println("Testing on null log");
-        NullLog nullLog = new NullLog();
+        Log nullLog = new NullLog();
         BankAccount baNullLog = new BankAccount(nullLog);
         baNullLog.deposit(100);
         baNullLog.withdraw(200);
+
+        System.out.println("Testing on dynamic null log");
+        Log dynamicNullLog = DynamicNull.getNoOp(Log.class);
+        BankAccount baNullLog2 = new BankAccount(dynamicNullLog);
+        baNullLog2.deposit(100);
+        baNullLog2.withdraw(200);
     }
 }
