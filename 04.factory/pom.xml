@@ -9,12 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>7.adapter</artifactId>
+    <artifactId>04.factory</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
-            <version>5.1.0</version>
+            <version>RELEASE</version>
             <scope>test</scope>
         </dependency>
     </dependencies>

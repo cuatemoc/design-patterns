@@ -9,8 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>9.composite</artifactId>
-
+    <artifactId>07.adapter</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -19,4 +18,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+
 </project>
