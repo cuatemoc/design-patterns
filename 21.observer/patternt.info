@@ -1,0 +1,2 @@
+Observer - an object that wishes to be informed whe something happens in the system.
+Observable - entity, generating such events
