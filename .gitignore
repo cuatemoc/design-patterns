@@ -126,11 +126,5 @@ hs_err_pid*
 16.interpreter/src/main/resources/
 17.iterator/src/main/resources/
 18.mediator/src/main/resources/
-2.solid/2.solid.iml
-25.visitor/25.visitor.iml
-3.builder/3.builder.iml
-4.factory/4.factory.iml
-5.prototype/5.prototype.iml
-6.singleton/6.singleton.iml
-7.adapter/7.adapter.iml
-8.bridge/8.bridge.iml
+19.memento/src/main/resources/
+20.null_object/src/main/resources/
