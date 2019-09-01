@@ -1,4 +1,4 @@
-package pl.slemjet.observable;
+package pl.slemjet.observable.manual;
 
 interface Observer<T> {
 

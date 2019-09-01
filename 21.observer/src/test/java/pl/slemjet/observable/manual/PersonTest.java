@@ -1,4 +1,6 @@
-package pl.slemjet.observable;
+package pl.slemjet.observable.manual;
+
+
 
 import org.junit.jupiter.api.Test;
 

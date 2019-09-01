@@ -1,4 +1,4 @@
-package pl.slemjet.observable;
+package pl.slemjet.observable.manual;
 
 import java.util.ArrayList;
 import java.util.List;
