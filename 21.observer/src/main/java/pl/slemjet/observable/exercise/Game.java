@@ -31,7 +31,6 @@ class Rat implements Closeable {
     public int attack = 1;
 
     public Rat(Game game) {
-        // todo: rat enters game here
         this.game = game;
 
         // rat enters action
@@ -56,7 +55,6 @@ class Rat implements Closeable {
 
     @Override
     public void close() throws IOException {
-        // todo: rat dies ;(
         game.ratDies.invoke(this, null);
     }
 }
