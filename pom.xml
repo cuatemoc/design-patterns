@@ -30,6 +30,7 @@
         <module>20.null_object</module>
         <module>21.observer</module>
         <module>25.visitor</module>
+        <module>22.state</module>
     </modules>
 
     <properties>
