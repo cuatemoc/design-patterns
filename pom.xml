@@ -31,6 +31,7 @@
         <module>21.observer</module>
         <module>25.visitor</module>
         <module>22.state</module>
+        <module>23.strategy</module>
     </modules>
 
     <properties>
