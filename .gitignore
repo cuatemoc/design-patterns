@@ -104,9 +104,12 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+/.gitignore
 .idea/compiler.xml
 .idea/misc.xml
 .idea/vcs.xml
+.idea/modules.xml
+
 10.decorator/src/main/resources/
 11.facade/src/
 12.flyweight/src/main/resources/
@@ -119,7 +122,6 @@ hs_err_pid*
 7.adapter/src/main/resources/
 8.bridge/src/main/resources/
 9.composite/src/main/resources/
-/.gitignore
 13.proxy/src/main/resources/
 14.chain_of_responsibility/src/main/resources/
 15.command/src/main/resources/
@@ -128,3 +130,15 @@ hs_err_pid*
 18.mediator/src/main/resources/
 19.memento/src/main/resources/
 20.null_object/src/main/resources/
+03.builder/src/main/resources/
+04.factory/src/main/resources/
+05.prototype/src/main/resources/
+06.singleton/src/main/resources/
+07.adapter/src/main/resources/
+08.bridge/src/main/resources/
+09.composite/src/main/resources/
+21.observer/src/main/resources/
+22.state/src/main/java/META-INF/
+22.state/src/main/java/pl/slemjet/state/manual/exe/
+22.state/src/main/resources/
+23.strategy/src/main/resources/
