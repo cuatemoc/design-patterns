@@ -1,4 +1,4 @@
-package pl.slemjet.templatemethod;
+package pl.slemjet.templatemethod.simple;
 
 import org.junit.jupiter.api.Test;
 
